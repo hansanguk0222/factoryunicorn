@@ -1,7 +1,6 @@
 import React from "react";
 import { ThemeProvider } from "styled-components";
 import { theme } from "@/style/theme";
-import { GetSizeButton } from "@/components/GetSizeButton";
 import { Header } from "@/components/Header";
 import { MainComponent } from "@/components/MainComponent";
 
